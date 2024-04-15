@@ -1,0 +1,17 @@
+{
+    "name": "atsu/atesses",
+    "description": "\"El paquete Atsu/Attesses de Laravel está diseñado para facilitar la generación de informes extensos y detallados sin afectar significativamente el rendimiento ni el consumo de memoria del servidor. Utilizando técnicas de optimización y un manejo eficiente de recursos, este paquete permite a los desarrolladores de Laravel extraer grandes volúmenes de datos y exportarlos a formatos como CSV o Excel de manera rápida y confiable. Ideal para aplicaciones que requieren reportes complejos y manejo de datos en masa, atsu/atesses se integra sin problemas en el ecosistema de Laravel y proporciona una solución robusta para las necesidades de informes avanzados.\"",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atsu\\Attesses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ATSU",
+            "email": "111021816+atsugula@users.noreply.github.com"
+        }
+    ]
+}
